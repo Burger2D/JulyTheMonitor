@@ -24,7 +24,6 @@ This is a custom monitor based on openIPC to stream video from the UAV. It is de
 |Module          |LB Link RTL2AU       |1       |$11.52   |$11.52    |LB Link  |https://www.aliexpress.com/item/1005006486060233.html             |
 |PCB + Components|uHAT                 |1       |$13.00   |$13.00    |JLC PCB  |jlcpcb                                                            |
 |PCB + Components|uHAT                 |1       |$13.00   |$13.00    |JLC PCB  |jlcpcb                                                            |
-|Misc.           |PLA Fillament        |1       |$23.00   |$23.00    |Polymaker|https://www.amazon.in/Polymaker-Filament-1-75mm-Black-Rigidity/dp/B099JXQN6K|
 |Misc.           |HDMI FPC Cable       |1       |$3.00    |$3.00     |Generic  |                                                                  |
-|Total           |                     |        |         |$116.00    |         |                                                                  |
+|Total           |                     |        |         |$96.00    |         |                                                                  |
 
